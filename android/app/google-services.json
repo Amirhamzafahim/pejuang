@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398945212219",
+    "firebase_url": "https://mypasarborong-db105.firebaseio.com",
+    "project_id": "mypasarborong-db105",
+    "storage_bucket": "mypasarborong-db105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398945212219:android:48c814fd58d7fc2269891e",
+        "android_client_info": {
+          "package_name": "com.example.pejuang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398945212219-dopgt4mfeds4bsad6u0cqhv3m5msgp6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Krmwh-9mNM-EynSOkN-P0-u6j4YYwqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398945212219-dopgt4mfeds4bsad6u0cqhv3m5msgp6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
